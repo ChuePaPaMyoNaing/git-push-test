@@ -3,3 +3,5 @@
 Gitを使ってバージン管理ができるうようになるために一緒に勉強しましょう
 
 Initial Commitは完了しますか
+
+add new sentence
